@@ -1,0 +1,1 @@
+# Automatizando-o-Deploy-de-Infraestrutura-no-Azure-com-Terraforme
